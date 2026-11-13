@@ -46,7 +46,7 @@ It started with a personal goal: turn a fitness routine into something practical
 
 The gallery below shows **Home**, **Diet** and **Progress** from a real Android installation of FIT12. The status bar and personal device information have been removed from the preview.
 
-![FIT12 Android app preview showing Home, Diet and Progress](screenshots/fit12-mobile-preview.svg)
+![FIT12 Android app preview showing Home, Diet and Progress](screenshots/fit12-mobile-preview.webp)
 
 *See the [live application](https://fadzlics.github.io/fit12-fitness-tracker/) for the interactive version.*
 
