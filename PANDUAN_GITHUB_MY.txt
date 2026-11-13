@@ -1,0 +1,21 @@
+FIT12 - PANDUAN GITHUB PAGES (BAHASA MELAYU)
+
+1) Di laptop, login github.com.
+2) Tekan tanda + > New repository.
+3) Repository name: fit12-fitness-tracker
+4) Visibility: Public (laman dan kod akan terbuka untuk umum).
+5) Tekan Create repository.
+6) Extract fail FIT12_GitHub_Pages_Ready.zip pada laptop.
+7) Buka repository > Add file > Upload files. Drag/drop kandungan folder yang diextract (index.html, sw.js, manifest.webmanifest, README.md, folders icons, exercises, dll). Bukan ZIP sahaja.
+8) Tekan Commit changes.
+9) Settings > Pages > Source: Deploy from a branch > Branch: main > /(root) > Save.
+10) Selepas GitHub siap publish, URL biasanya:
+    https://FadzliCS.github.io/fit12-fitness-tracker/
+   (URL contoh sahaja; belum live sehingga Pages berjaya publish.)
+11) Buka URL tadi pada Chrome Android > menu ⋮ > Add to Home screen > Install app (jika tersedia).
+
+PENTING:
+- GitHub Pages adalah public; jangan upload rekod progress kesihatan, fail backup JSON, password atau data sulit.
+- Progress dalam localStorage browser telefon, bukan dalam GitHub. Ia tidak sync dengan laptop.
+- PWA offline hanya selepas load pertama + service worker diaktifkan.
+- Edit README.md untuk masukkan URL sebenar selepas live.
