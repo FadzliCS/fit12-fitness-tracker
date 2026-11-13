@@ -42,14 +42,6 @@ It started with a personal goal: turn a fitness routine into something practical
 | 📴 **Offline-ready** | Service worker caches app assets after an initial online load, subject to browser support. |
 | 💾 **Local data + backup** | Progress stays in the device browser; JSON export/import helps preserve records. |
 
-## 📱 Real Android app preview
-
-The gallery below shows **Home**, **Diet** and **Progress** from a real Android installation of FIT12. The status bar and personal device information have been removed from the preview.
-
-![FIT12 Android app preview showing Home, Diet and Progress](screenshots/fit12-mobile-preview.webp)
-
-*See the [live application](https://fadzlics.github.io/fit12-fitness-tracker/) for the interactive version.*
-
 ## 👀 Exercise illustration previews
 
 The exercise library contains simple **START → MOVE** visual guidance. These images are examples from the actual project files.
@@ -142,7 +134,6 @@ FIT12 was developed **with substantial AI assistance**. I contributed the produc
 
 ## 🧭 Possible next improvements
 
-- [x] Add genuine mobile screenshots to this README
 - [ ] Improve accessibility and exercise-demo clarity
 - [ ] Add a statistics dashboard for weekly training consistency and weight trends
 - [ ] Add configurable meal templates and more flexible targets
